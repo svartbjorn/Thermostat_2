@@ -21,12 +21,7 @@ displaying the temperature.
 // D5 :  rst - Reset pin for display
 // D6 : SD_CS
 // D7 :	Switch for UI /Repaint
-// Spark Core Access Token: b958141f1833bcd97ee7e2c4edcd05f10774c181
-// Spark Core Device ID: 53ff72066667574854392567
-// Spark Variables: 10 12 character names int,double and string (max 622 bytes)
-// Spark Functions are limited to 12 characters and can take 1 string argument of 63 charaters.  can return any int.
-// http://api.wunderground.com/api/12de5426de6bf9b1/conditions/q/MA/Dalton.json
-// https://api.particle.io/v1/devices/53ff72066667574854392567/result?access_token=b958141f1833bcd97ee7e2c4edcd05f10774c181
+
 *******************************************************************
 */
 #pragma SPARK_NO_PREPROCESSOR   // This will direct Arduino preprocessor to not create prototypes for functions.
